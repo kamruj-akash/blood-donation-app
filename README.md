@@ -55,10 +55,11 @@ npm install    # or pnpm install
 
 # 4. Run locally
 npm run dev    # or pnpm dev
-
+```
 
 📸 Screenshots
-<div align="center"> <img src="public/screenshot1.png" width="350" alt="Screenshot 1" style="border-radius:12px;margin:8px;"> <img src="public/screenshot2.png" width="350" alt="Screenshot 2" style="border-radius:12px;margin:8px;"> </div>
+<div align="center"> <img src="https://i.ibb.co/MyGNSS1j/bd-1.png" width="350" alt="Screenshot-1" style="border-radius:12px;margin:8px;"> <img src="https://i.ibb.co/hR6L0CJw/bd-2.png" width="350" alt="Screenshot 2" style="border-radius:12px;margin:8px;"> </div>
+
 💡 Customization
 Edit info & contact: /content/ or /app/
 
@@ -67,8 +68,8 @@ Change theme/colors: tailwind.config.ts and /app/globals.css
 Replace logo & images: public/ folder
 
 📞 Contact & Credits
-Developed by Kamruj Akash
+Developed by <a href="https://github.com/kamruj-akash">KAmruj AKash</a>
 
-Email: source.akash@gmail.com
+Email: <a href="mailto:source.akash@gmail.com">source.akash@gmail.com</a>
 
-<div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="40" /><br/> <i>“Your blood can give someone another chance at life.”</i><br/><br/> <img src="https://img.shields.io/badge/Be%20a%20Hero-Donate%20Blood-ef233c?style=flat-square&logo=dropbox" /> </div> ```
+<div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="40" /><br/> <i>“Your blood can give someone another chance at life.”</i><br/><br/> <img src="https://img.shields.io/badge/Be%20a%20Hero-Donate%20Blood-ef233c?style=flat-square&logo=dropbox" /> </div> 
